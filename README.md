@@ -1,4 +1,4 @@
-<h2> 👋 Oi, eu sou Andre-Oliveira!</h2>
+<h2> 👋 Oi, eu sou Andre Oliveira!</h2>
 👨‍🎓Engenharia de Energias Renováveis- UFPB.<br>
 👨‍🎓Análise e Desenvolvimento de Sistemas - FAM. <br>
 <br>
