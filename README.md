@@ -1,6 +1,7 @@
 <h2> 👋 Oi, eu sou Andre Oliveira!</h2>
 👨‍🎓Engenharia de Energias Renováveis- UFPB.<br>
 👨‍🎓Análise e Desenvolvimento de Sistemas - FAM. <br>
+💻 Desenvolvedor JR na Hop Digital <br>
 <br>
 <h3>Busco por:</h3><br>
 👉 Oportunidade de aprender e aplicar meus conhecimentos<br>
@@ -12,7 +13,6 @@
 Meu foco 🧑‍💻⚡️:<br>
 💻 Flask e Django <br>
 💻 Análise de dados<br>
-💻 Linguagem R<br>
 💻 Engenharia de dados<br>
 💻 Backend<br>
 
