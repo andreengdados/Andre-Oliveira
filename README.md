@@ -1,4 +1,4 @@
-<h2> 👋 Oi, eu sou Andre Oliveira!</h2>
+<h2> 👋 Seja bem vindo, eu sou Andre!</h2>
 👨‍🎓Engenharia de Energias Renováveis- UFPB.<br>
 👨‍🎓Análise e Desenvolvimento de Sistemas - FAM. <br>
 💻 Desenvolvedor JR na Hop Digital <br>
@@ -6,25 +6,26 @@
 <h3>Busco por:</h3><br>
 👉 Oportunidade de aprender e aplicar meus conhecimentos<br>
 👉 Networking<br>
-👉 Participar de projetos onde eu seja o menos experiente <br>
+
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Meu foco 🧑‍💻⚡️:<br>
-💻 Flask e Django <br>
 💻 Análise de dados<br>
 💻 Engenharia de dados<br>
-💻 Backend<br>
 
-<h3> Banco de dados </h3>
+
+<h3> Tecnologias e Ferramentas </h3>
 <code><img height= "20"src= "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></code>
 <code><img height= "20"src= "https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"></code>
-
-<p><h3> Linguagens </h3></p>
-<code><img height= "20"src= "https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></code>
+<code><img height= "30"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" /></code>          
 <code><img height= "20"src= "https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"></code>
-<p><h3>IDE</h3></p>
+<code><img height= "20"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" /></code>          
 <a href="https://code.visualstudio.com/" title="Visual Studio Code" rel="nofollow"><img src="https://github.com/hussainweb/hussainweb/raw/main/icons/vscode.png" style="max-width: 100%;"></a>
+<code><img height= "30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" /></code>
+          
+
+
 <p><h3>Experiência</h3>
 <code><img height= "20"src= "https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"></code>
 <code><img height= "20"src= "https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white"></code>
